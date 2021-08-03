@@ -1,5 +1,5 @@
 # SubString_Generator
-A command line tool to create hashes of all possible substrings from pairs of text
+A command line tool to create hashes of all possible substrings from pairs of text. Built with TDD principles.
 
 # SubString_Generator
 
